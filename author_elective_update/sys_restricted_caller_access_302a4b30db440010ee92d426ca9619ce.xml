@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="DELETE">
+        <operation>read</operation>
+        <source/>
+        <source_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</source_scope>
+        <source_table/>
+        <source_type>5</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2019-09-20 09:37:21</sys_created_on>
+        <sys_id>302a4b30db440010ee92d426ca9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6ead8e780f603200cd674f8ce1050ed1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_302a4b30db440010ee92d426ca9619ce</sys_update_name>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2019-09-20 09:37:21</sys_updated_on>
+        <target/>
+        <target_scope display_value="Global">global</target_scope>
+        <target_table/>
+        <target_type>3</target_type>
+    </sys_restricted_caller_access>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>84112d45db86dbc87d8cf22ebf96197b</instance_id>
+        <instance_name>dev59082</instance_name>
+        <name>sys_restricted_caller_access_302a4b30db440010ee92d426ca9619ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access"><sys_restricted_caller_access action="INSERT_OR_UPDATE"><operation>read</operation><source/><source_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</source_scope><source_table/><source_type>5</source_type><status>2</status><sys_class_name>sys_restricted_caller_access</sys_class_name><sys_created_by>raghu</sys_created_by><sys_created_on>2019-09-20 09:37:21</sys_created_on><sys_id>302a4b30db440010ee92d426ca9619ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>6ead8e780f603200cd674f8ce1050ed1</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_restricted_caller_access_302a4b30db440010ee92d426ca9619ce</sys_update_name><sys_updated_by>raghu</sys_updated_by><sys_updated_on>2019-09-20 09:37:21</sys_updated_on><target/><target_scope display_value="Global">global</target_scope><target_table/><target_type>3</target_type></sys_restricted_caller_access></record_update>]]></payload>
+        <payload_hash>617288058</payload_hash>
+        <record_name>6ead8e780f603200cd674f8ce1050ed1</record_name>
+        <reverted_from/>
+        <source>951acf7cdb040010ee92d426ca961978</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>raghu</sys_created_by>
+        <sys_created_on>2019-09-20 09:37:21</sys_created_on>
+        <sys_id>0d3a8b7cdb040010ee92d426ca961956</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16d4e0878c70000001</sys_recorded_at>
+        <sys_updated_by>raghu</sys_updated_by>
+        <sys_updated_on>2019-09-20 09:37:21</sys_updated_on>
+        <type>Restricted Caller Access Privilege</type>
+        <update_guid>453a8b7cbe040010f990a3ea1b490a56</update_guid>
+        <update_guid_history>453a8b7cbe040010f990a3ea1b490a56:617288058</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-20 09:38:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_restricted_caller_access">sys_restricted_caller_access</sys_db_object>
+        <sys_id>5bb17daba0df4a72abe79d5af494ae44</sys_id>
+        <sys_metadata>302a4b30db440010ee92d426ca9619ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6ead8e780f603200cd674f8ce1050ed1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_restricted_caller_access_302a4b30db440010ee92d426ca9619ce</sys_update_name>
+        <sys_update_version display_value="sys_restricted_caller_access_302a4b30db440010ee92d426ca9619ce">0d3a8b7cdb040010ee92d426ca961956</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-20 09:38:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
